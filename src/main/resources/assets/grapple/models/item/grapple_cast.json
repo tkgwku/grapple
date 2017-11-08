@@ -1,0 +1,6 @@
+{
+    "parent": "grapple:item/grapple",
+    "textures": {
+        "layer0": "items/fishing_rod_cast"
+    }
+}
