@@ -8,13 +8,13 @@
 1.12.x
 
 ### ダウンロード
-作者ホームページより[jar.oiran.org](http://jar.oiran.org/g/)
+作者ホームページより -> [jar.oiran.org](http://jar.oiran.org/g/)
 
 ### 設定
-作者ホームページより[jar.oiran.org](http://jar.oiran.org/g/#c)
+作者ホームページより -> [jar.oiran.org](http://jar.oiran.org/g/#c)
 
 ### 紹介
 [ニコニコ動画](http://www.nicovideo.jp/watch/sm31956875)
 
 ### Known Issue
-* 実際のAnnihilationの挙動より横方向にダイナミックに動く。
+* 実際のスカウトの挙動より横方向にダイナミックに動く。
