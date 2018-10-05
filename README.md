@@ -1,11 +1,13 @@
 # Grapple mod for Minecraft
-Elaborated replica of Sh*tbow Scout
+
+Elaborated replica of Sh\*tbow Scout
 
 ### MC Versions
-1.9.4
-1.10.x
-1.11.x
-1.12.x
+1.7.10   
+1.9.4    
+1.10.x   
+1.11.x   
+1.12.x  
 
 ### Downloads
 From author's page -> [jar.oiran.org](http://jar.oiran.org/g/)
@@ -17,7 +19,8 @@ See author's page -> [jar.oiran.org](http://jar.oiran.org/g/#c)
 [nicovideo.jp](http://www.nicovideo.jp/watch/sm31956875)
 
 ### Known Issue
-* Too dinamic movement compared to Sh*tbow Scout
+
+* Too dinamic movement compared to Sh\*tbow Scout   
 
 ### License
 You are allowed to modify grapple mod code and distribute your modified version of grapple mod, BUT SHOULD DO SO UNDER [THE LISENCE OF MCP](https://gist.github.com/Techcable/de37e364ab35194df3e8).   
