@@ -8,7 +8,7 @@
             "predicate": {
                 "cast": 1
             },
-            "model": "grapple:item/grapple_cast"
+            "model": "item/fishing_rod_cast"
         }
     ]
 }

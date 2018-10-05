@@ -1,8 +1,7 @@
 package mod.finediary.grapple.packet;
 
 public enum EnumGrappleMessage {
-	SWING_MAINHAND((byte)0),
-    SWING_OFFHAND((byte)1);
+	SWING((byte)0);
 
 	byte data;
 

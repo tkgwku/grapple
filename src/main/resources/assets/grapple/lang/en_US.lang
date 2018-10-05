@@ -1,8 +1,4 @@
 ﻿
 unable.to.grapple=§cUnable to grapple
 grapple.not.ready=§cGrapple not ready yet.
-item.grapple.name=Grapple
-achievement.grapple.craft=Grappler
-achievement.grapple.craft.desc=Craft a grapple by a fishing rod and one blaze rod
-achievement.grapple.dinamic_kill=Circus Man!
-achievement.grapple.dinamic_kill.desc=Shot a zombie while flying with grapple
+item.grapple.name=§7Grapple
