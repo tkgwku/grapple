@@ -12,9 +12,12 @@ Elaborated replica of Sh\*tbow Scout
 ### Downloads
 From author's page -> [jar.oiran.org](http://jar.oiran.org/g/)
 
-
-### Recipe
-Craft fishing rod and blaze rod to make 'Grapple'   
+### Usage
+1. Install minecarft-forge of proper version
+2. Go to `.minecraft\mods` and drop `grapple-xxx-xxx.zip`
+3. Run minecraft
+4. Craft fishing rod and blaze rod to make 'Grapple'
+      
 ![craft image](img/recipe.jpg)
 
 ### Config
