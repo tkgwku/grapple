@@ -20,11 +20,12 @@ See author's page -> [jar.oiran.org](http://jar.oiran.org/g/#c)
 
 ### Known Issue
 
-* Too dinamic movement compared to Sh\*tbow Scout   
+* Too dinamic movement compared to Sh\*tbow Scout 
 
 ### License
 You are allowed to modify grapple mod code and distribute your modified version of grapple mod, BUT SHOULD DO SO UNDER [THE LISENCE OF MCP](https://gist.github.com/Techcable/de37e364ab35194df3e8).   
 It is you who are responsible for any risk of introducing grapple mod. I canoot gurantee there's no bug.   
+You can include grapple mod in your modpack without contact to me.
 
 ### Caution
 Redistribute-version of this mod may contain modification by someone else, which can cause you some damage. So, be careful of use redistribute version.
