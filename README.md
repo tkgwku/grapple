@@ -1,6 +1,6 @@
 # Grapple mod for Minecraft
 
-Elaborated replica of Sh\*tbow Scout
+Elaborate replica of Sh\*tbow Scout
 
 ### MC Versions
 1.7.10   
