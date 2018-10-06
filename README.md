@@ -12,6 +12,11 @@ Elaborated replica of Sh\*tbow Scout
 ### Downloads
 From author's page -> [jar.oiran.org](http://jar.oiran.org/g/)
 
+
+### Recipe
+Craft fishing rod and blaze rod to make 'Grapple'
+![craft image](img/recipe.jpg)
+
 ### Config
 See author's page -> [jar.oiran.org](http://jar.oiran.org/g/#c)
 
