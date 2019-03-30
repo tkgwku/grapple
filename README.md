@@ -44,5 +44,5 @@ Redistribute-version of this mod may contain modification by someone else, which
 
 ### what to do next
 
-- Scout soul enchantment -- add new armour enchantment which softens falldamage, give speed effect
+- Scout soul enchantment -- add new armour enchantment which softens falldamage, gives swiftness effect
 - Configuration
