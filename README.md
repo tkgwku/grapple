@@ -8,7 +8,7 @@ Elaborate replica of Sh\*tbow Scout
 1.10.x   
 1.11.x   
 1.12.x  
-1.13.2 (aplha)
+[1.13.2 (aplha)](https://github.com/tkgwku/grapple/blob/master/README.md#grapple-mod-for-mc1132-alpha1)
 
 ### Downloads
 From author's page -> [jar.oiran.org](http://jar.oiran.org/g/)
@@ -40,7 +40,7 @@ You can include grapple mod in your modpack without contact to me.
 Redistribute-version of this mod may contain modification by someone else, which can cause you some damage. So, be careful of use redistribute version.
 
 
-# Grapple Mod for MC1.13.2 alpha1
+## Grapple Mod for MC1.13.2 alpha1
 
 ### what to do next
 
