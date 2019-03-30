@@ -29,7 +29,7 @@ public class GrappleMod {
 
 	GrappleMod instance;
 
-    public static CommonProxy proxy = (FMLEnvironment.dist == Dist.CLIENT) ? new ClientProxy() : new CommonProxy();
+	public static CommonProxy proxy = (FMLEnvironment.dist == Dist.CLIENT) ? new ClientProxy() : new CommonProxy();
 
 	public GrappleMod() {
 		instance = this;
