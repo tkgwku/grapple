@@ -8,7 +8,7 @@ Elaborate replica of Sh\*tbow Scout
 1.10.x   
 1.11.x   
 1.12.x  
-[1.13.2 (aplha)](https://github.com/tkgwku/grapple/blob/master/README.md#grapple-mod-for-mc1132-alpha1)
+1.13.2 (aplha)
 
 ### Downloads
 From author's page -> [jar.oiran.org](http://jar.oiran.org/g/)
