@@ -7,35 +7,34 @@ import java.util.Map;
 import com.google.common.collect.Maps;
 
 import net.minecraft.entity.player.EntityPlayer;
-import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.gameevent.TickEvent;
 import net.minecraftforge.fml.common.gameevent.TickEvent.Phase;
 
-public class GrappleEventHandler {
+@Mod.EventBusSubscriber(modid = GrappleMod.MODID, bus = Mod.EventBusSubscriber.Bus.FORGE)
+public class GrappleHandler {
     static List<PullPlayerTask> tasks = new ArrayList<PullPlayerTask>();
     static Map<String, Integer> cooltime = Maps.newHashMap();
-    static int defaultct = 10;
-
-    public GrappleEventHandler(){}
+    static int GRAPPLE_COOLTIME = 10;
 
     static void addPullPlayerTask(PullPlayerTask e){
         tasks.add(e);
     }
 
     static void addCooltime(EntityPlayer player){
-    	if (defaultct > 0) cooltime.put(player.getName(), defaultct);
+    	if (GRAPPLE_COOLTIME > 0) cooltime.put(player.getName().getString(), GRAPPLE_COOLTIME);
     }
 
-    static boolean canHook(EntityPlayer player){
-    	return !cooltime.containsKey(player.getName());
+    static boolean checkCooltime(EntityPlayer player){
+    	return !cooltime.containsKey(player.getName().getString());
     }
 
     @SubscribeEvent
-    public void onTick(TickEvent.ServerTickEvent event){
+    public static void tick(TickEvent.ServerTickEvent event){
         if (event.phase == Phase.END){
             if (!tasks.isEmpty()) {
                 List<PullPlayerTask> finished = new ArrayList<PullPlayerTask>();
-                // because tasks.remove(t); causes ConcurrentModificationException
                 for (PullPlayerTask t: tasks){
                     if (t.pertick()) {
                         finished.add(t);
@@ -55,17 +54,4 @@ public class GrappleEventHandler {
             }
         }
     }
-    /*
-     * config reloading for introduction video
-     *
-    @SubscribeEvent
-    public void onChat(ServerChatEvent e){
-    	if (e.getMessage().equals(":r")){
-    		if (ModContainer.loadConfig()){
-    			e.getPlayer().sendMessage(new TextComponentString(TextFormatting.GRAY+"[grapple] Reloaded configuration."));
-    		}
-        	e.setCanceled(true);
-    	}
-    }
-    */
 }

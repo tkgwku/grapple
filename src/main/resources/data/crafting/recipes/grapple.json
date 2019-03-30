@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shapeless",
+    "group": "stuff",
+    "ingredients": [
+        {
+            "item": "minecraft:blaze_rod"
+        },
+        {
+            "item": "minecraft:fishing_rod"
+        }
+    ],
+    "result": {
+        "item": "grapple:grapple",
+        "count": 1
+    }
+}

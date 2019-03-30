@@ -1,0 +1,18 @@
+modLoader="javafml"
+loaderVersion="[24,)"
+
+[[mods]]
+    modId="grapple"
+    namespace="grapple"
+    version="1"
+    displayName="Grapple Mpd"
+    authors="fine_diary"
+    description='''
+ANNI
+    '''
+    [[dependencies.grapple]]
+        modId="forge"
+        mandatory=true
+        versionRange="[25,)"
+        ordering="NONE"
+        side="BOTH"
