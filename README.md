@@ -8,6 +8,7 @@ Elaborate replica of Sh\*tbow Scout
 1.10.x   
 1.11.x   
 1.12.x  
+1.13.2 (aplha)
 
 ### Downloads
 From author's page -> [jar.oiran.org](http://jar.oiran.org/g/)
@@ -37,3 +38,11 @@ You can include grapple mod in your modpack without contact to me.
 
 ### Caution
 Redistribute-version of this mod may contain modification by someone else, which can cause you some damage. So, be careful of use redistribute version.
+
+
+# Grapple Mod for MC1.13.2 alpha1
+
+### what to do next
+
+- Scout soul enchantment -- add new armour enchantment which softens falldamage, give speed effect
+- Configuration
