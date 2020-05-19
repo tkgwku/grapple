@@ -37,7 +37,7 @@ It is you who are responsible for any risk of introducing grapple mod. I canoot 
 You can include grapple mod in your modpack without contact to me.
 
 ### Caution
-Redistribute-version of this mod may contain modification by someone else, which can cause you some damage. So, be careful of use redistribute version.
+Redistribute-version of this mod may contain modification by someone else, which can cause you some damage. So, be careful when you use redistribute version.
 
 
 ## Grapple Mod for MC1.13.2 alpha1
