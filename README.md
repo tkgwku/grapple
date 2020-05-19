@@ -1,6 +1,6 @@
 # Grapple mod for Minecraft
 
-Elaborate replica of Sh\*tbow Scout
+Have you ever played Sh\*tbow Ann\*hilation?
 
 ### MC Versions
 1.7.10   
@@ -11,10 +11,10 @@ Elaborate replica of Sh\*tbow Scout
 1.13.2 (aplha)
 
 ### Downloads
-From author's page -> [jar.oiran.org](http://jar.oiran.org/g/)
+[jar.oiran.org](http://jar.oiran.org/g/)
 
 ### Usage
-1. Install minecarft-forge of proper version
+1. Install minecarft-forge
 2. Go to `.minecraft\mods` and drop `grapple-xxx-xxx.zip`
 3. Run minecraft
 4. Craft fishing rod and blaze rod to make 'Grapple'
@@ -22,7 +22,7 @@ From author's page -> [jar.oiran.org](http://jar.oiran.org/g/)
 ![craft image](img/recipe.jpg)
 
 ### Config
-See author's page -> [jar.oiran.org](http://jar.oiran.org/g/#c)
+detail: [jar.oiran.org](http://jar.oiran.org/g/#c)
 
 ### Video
 [nicovideo.jp](http://www.nicovideo.jp/watch/sm31956875)
@@ -32,17 +32,16 @@ See author's page -> [jar.oiran.org](http://jar.oiran.org/g/#c)
 * Too dinamic movement compared to Sh\*tbow Scout 
 
 ### License
-You are allowed to modify grapple mod code and distribute your modified version of grapple mod, BUT SHOULD DO SO UNDER [THE LISENCE OF MCP](https://gist.github.com/Techcable/de37e364ab35194df3e8).   
-It is you who are responsible for any risk of introducing grapple mod. I canoot gurantee there's no bug.   
-You can include grapple mod in your modpack without contact to me.
+You are allowed to modify this mod code and distribute your modified version of grapple mod, but please care about compliance and [THE LISENCE OF MCP](https://gist.github.com/Techcable/de37e364ab35194df3e8).   
+It is you who are responsible for any risk by this mod.   
+You can include this mod in your modpack without contact to me.
 
 ### Caution
-Redistribute-version of this mod may contain modification by someone else, which can cause you some damage. So, be careful when you use redistribute version.
+Redistributed version of this mod may contain abused codes. So, be careful when you use redistributed version.
 
 
-## Grapple Mod for MC1.13.2 alpha1
+## Future 
+### Grapple Mod for Fabric will come soon... but it's too tough I believe
 
-### what to do next
-
-- Scout soul enchantment -- add new armour enchantment which softens falldamage, gives swiftness effect
-- Configuration
+- \[TODO\] Scout soul enchantment -- add new armour enchantment which softens falldamage, gives swiftness effect
+- \[TODO\] Configuration
