@@ -40,8 +40,7 @@ You can include this mod in your modpack without contact to me.
 Redistributed version of this mod may contain abused codes. So, be careful when you use redistributed version.
 
 
-## Future 
-### Grapple Mod for Fabric will come soon... but it's too tough I believe
-
+### Future 
+Grapple Mod for Fabric will come soon... but it's too tough I believe   
 - \[TODO\] Scout soul enchantment -- add new armour enchantment which softens falldamage, gives swiftness effect
 - \[TODO\] Configuration
