@@ -29,7 +29,7 @@ detail: [jar.oiran.org](http://jar.oiran.org/g/#c)
 
 ### Known Issue
 
-* Too dinamic movement compared to Sh\*tbow Scout 
+* Too dynamic movement compared to Sh\*tbow Scout 
 
 ### License
 You are allowed to modify this mod code and distribute your modified version of grapple mod, but please care about compliance and [THE LISENCE OF MCP](https://gist.github.com/Techcable/de37e364ab35194df3e8).   
